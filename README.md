@@ -33,6 +33,7 @@ It uses rule-based heuristics to generate:
    python app.py
    ```
    Then open http://127.0.0.1:5000 in your browser.
+   deploy link:https://personalized-workout-diet-planner-with-ai.onrender.com/
 
 ## Notes
 - This project is original and intended for learning and demonstration purposes.
